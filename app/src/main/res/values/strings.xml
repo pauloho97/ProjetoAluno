@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AlunoApplication</string>
+    <string name="n_o_pode_ter_campos_vazios">Não pode ter campos vazios</string>
+    <string name="logado_com_sucesso">Logado com sucesso</string>
+    <string name="loginInvalido">Login inválido</string>
+    <string name="erroCamposVazios">Erro, campos não pode ser vazios</string>
+    <string name="numerosReais">campo nota deve ser números</string>
+    <string name="aluno_cadastrado_com_sucesso">Aluno cadastrado com sucesso</string>
+</resources>
